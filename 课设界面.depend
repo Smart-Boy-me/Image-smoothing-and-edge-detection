@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1585913677 source:d:\code blocks project\课设之图像处理\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1587038609 source:d:\code blocks project\课设界面\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<io.h>
+	<pthread.h>
+
+1589593794 source:d:\codeblocks project\课设界面\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<io.h>
+	<pthread.h>
+
